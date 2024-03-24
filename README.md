@@ -25,7 +25,7 @@ This project focuses on performing an exploratory data analysis (EDA) of Airbnb 
 ## Getting Started:
 **Clone the Repository:**
 bashCopy code
-`git clone https://github.com/your_username/airbnb-eda.git`
+`git clone https:https://github.com/MohammedAborezka/Airbnb_EDA/`
 
 1.  **Download Dataset:** The dataset containing Airbnb listings within the selected city can be downloaded from
      [source_link](http://data.insideairbnb.com/spain/catalonia/barcelona/2023-12-13/visualisations/listings.csv).
