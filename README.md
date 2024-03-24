@@ -32,4 +32,4 @@ bashCopy code
 2.  **Run the Jupyter Notebook:**
     Copy code
     `jupyter notebook Airbnb (1).ipynb` 
-4.  **Follow Along:** Open the Jupyter Notebook `airbnb_analysis.ipynb` and follow the step-by-step analysis.
+4.  **Follow Along:** Open the Jupyter Notebook `Airbnb (1).ipynb` and follow the step-by-step analysis.
